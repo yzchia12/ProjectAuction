@@ -1,0 +1,37 @@
+{
+  "project_info": {
+    "project_number": "1099119779339",
+    "firebase_url": "https://projectbid-40613-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "projectbid-40613",
+    "storage_bucket": "projectbid-40613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099119779339:ios:62a6260c609f16a853f10e",
+        "android_client_info": {
+          "package_name": "com.Lone.ProjectBid"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWFJuUclc1d0cvAC6fq6Yw-Ifbi4sIVA0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099119779339-attphcgiko73ivi9fp7ee99k1itgokfr.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}
